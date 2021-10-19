@@ -8,12 +8,14 @@ const machinellama = {
       css: ['SCSS']
     },
     backEnd: {
-      js: ['NodeJS', 'Express'],
-      java: ['Sprint Boot']
+      js: ['NodeJS', 'Express', 'TSOA'],
+      java: ['Spring Boot']
     },
+    build: ['Babel', 'Webpack', 'Gulp', 'Prettier']
     devOps: ['Docker'],
     databases: ['MongoDB', 'PostgresSQL']
   }
 },
-tools: ['TSOA']
+tools: ['VSCode', 'Git'],
+methodologies: ['Agile']
 ```
