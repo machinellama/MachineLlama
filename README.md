@@ -5,7 +5,7 @@ const machinellama = {
   technologies: {
     frontEnd: {
       js: ['React'],
-      css: ['SCSS']
+      css: ['SCSS', 'Bootstrap', 'Material UI']
     },
     backEnd: {
       js: ['NodeJS', 'Express', 'TSOA'],
