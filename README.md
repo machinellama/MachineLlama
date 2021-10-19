@@ -1,5 +1,5 @@
 ```js
-const llama = {
+const machinellama = {
   code: ['JavaScript', 'TypeScript', 'Java'],
   askMeAbout: ['Anime', 'Manga', 'Gaming'],
   technologies: {
