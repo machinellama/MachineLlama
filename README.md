@@ -14,8 +14,8 @@ const machinellama = {
     build: ['Babel', 'Webpack', 'Gulp', 'Prettier'],
     devOps: ['Docker'],
     databases: ['MongoDB', 'PostgresSQL']
-  }
-},
-tools: ['VSCode', 'Git'],
-methodologies: ['Agile']
+  },
+  tools: ['VSCode', 'Git'],
+  methodologies: ['Agile']
+}
 ```
