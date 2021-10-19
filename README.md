@@ -11,7 +11,7 @@ const machinellama = {
       js: ['NodeJS', 'Express', 'TSOA'],
       java: ['Spring Boot']
     },
-    build: ['Babel', 'Webpack', 'Gulp', 'Prettier']
+    build: ['Babel', 'Webpack', 'Gulp', 'Prettier'],
     devOps: ['Docker'],
     databases: ['MongoDB', 'PostgresSQL']
   }
