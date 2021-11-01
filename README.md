@@ -16,6 +16,7 @@ const machinellama = {
     databases: ['MongoDB', 'PostgresSQL']
   },
   tools: ['VSCode', 'Git'],
-  methodologies: ['Agile']
+  methodologies: ['Agile'],
+  preferences: ['2 spaces', 'same line for starting curly braces']
 }
 ```
