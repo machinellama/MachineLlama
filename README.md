@@ -2,11 +2,11 @@
 const machinellama = {
   languages: ['JavaScript', 'TypeScript', 'Java'],
   technologies: {
-    frontEnd: {
+    frontend: {
       js: ['React', 'Next'],
       css: ['SCSS', 'Bootstrap', 'Material UI', 'Ant Design', 'Tailwind']
     },
-    backEnd: {
+    backend: {
       js: ['Node', 'Express', 'TSOA', 'TypeORM'],
       java: ['Groovy', 'Spring Boot']
     },
