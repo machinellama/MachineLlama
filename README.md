@@ -1,24 +1,21 @@
 ```js
 const machinellama = {
   languages: ['JavaScript', 'TypeScript', 'Java'],
-  askMeAbout: ['Anime', 'Manga', 'Gaming'],
   technologies: {
     frontEnd: {
-      js: ['React'],
-      css: ['SCSS', 'Bootstrap', 'Material UI', 'Ant Design', 'TailwindCSS']
+      js: ['React', 'Next'],
+      css: ['SCSS', 'Bootstrap', 'Material UI', 'Ant Design', 'Tailwind']
     },
     backEnd: {
-      js: ['NodeJS', 'Express', 'TSOA', 'TypeORM'],
-      java: ['Spring Boot']
+      js: ['Node', 'Express', 'TSOA', 'TypeORM'],
+      java: ['Groovy', 'Spring Boot']
     },
-    frameworks: ['NextJS'],
     build: ['Babel', 'Webpack', 'Gulp', 'Prettier'],
-    devOps: ['Docker'],
+    devOps: ['Docker', 'AWS Amplify'],
     testing: ['Cypress', 'Jest'],
     databases: ['MongoDB', 'PostgresSQL']
   },
-  tools: ['VSCode', 'Git'],
-  methodologies: ['Agile'],
+  methodologies: ['Agile', 'Waterfall'],
   preferences: ['2 spaces', 'same line for starting curly braces']
 }
 ```
