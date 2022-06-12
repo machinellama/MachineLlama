@@ -1,9 +1,9 @@
 ```js
 const machinellama = {
-  languages: ['JavaScript', 'TypeScript', 'Java'],
+  languages: ['JavaScript', 'Java'],
   technologies: {
     frontend: {
-      js: ['React', 'Next'],
+      js: ['React', 'TypeScript', 'Next', 'NX'],
       css: ['SCSS', 'Bootstrap', 'Material UI', 'Ant Design', 'Tailwind']
     },
     backend: {
@@ -11,7 +11,7 @@ const machinellama = {
       java: ['Groovy', 'Spring Boot']
     },
     build: ['Babel', 'Webpack', 'Gulp', 'Prettier'],
-    devOps: ['Docker', 'AWS Amplify'],
+    devOps: ['Docker', 'AWS Amplify', 'Bitbucket Pipeline'],
     testing: ['Cypress', 'Jest'],
     database: ['MongoDB', 'PostgresSQL', 'TypeORM']
   },
