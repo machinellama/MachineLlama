@@ -19,5 +19,3 @@ const machinellama = {
   preferences: ['2 spaces', 'same line for starting curly braces']
 }
 ```
-
-Need help coding your project? I'm open to freelance! Email me at machinellama@gmail.com for more information
