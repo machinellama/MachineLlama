@@ -13,7 +13,8 @@ const machinellama = {
     build: ['Babel', 'Webpack', 'Gulp', 'Prettier'],
     devOps: ['Docker', 'AWS Amplify', 'Bitbucket Pipeline'],
     testing: ['Cypress', 'Jest'],
-    database: ['MongoDB', 'PostgresSQL', 'TypeORM']
+    database: ['MongoDB', 'PostgresSQL', 'TypeORM'],
+    design: ['Figma']
   },
   methodologies: ['Agile', 'Waterfall'],
   preferences: ['2 spaces', 'same line for starting curly braces']
