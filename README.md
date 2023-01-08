@@ -17,6 +17,6 @@ const machinellama = {
     design: ['Figma']
   },
   methodologies: ['Agile', 'Waterfall'],
-  preferences: ['2 spaces', 'same line for starting curly braces']
+  preferences: ['2 spaces', 'same line for starting curly braces', 'The Oxford Comma']
 }
 ```
