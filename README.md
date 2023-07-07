@@ -3,17 +3,17 @@ const machinellama = {
   languages: ['JavaScript'],
   technologies: {
     frontend: {
-      js: ['React', 'TypeScript', 'NextJS', 'NX'],
+      js: ['React', 'TypeScript', 'NextJS'],
       css: ['Tailwind', 'SASS'],
       libraries: ['Material UI', 'Ant Design']
     },
     backend: {
-      js: ['Node', 'Express', 'TSOA']
+      js: ['Node', 'Express']
     },
     build: ['Babel', 'Webpack', 'Gulp'],
-    devOps: ['Docker', 'Bitbucket Pipelines'],
+    devOps: ['Docker'],
     testing: ['Cypress', 'Jest'],
-    database: ['MongoDB', 'PostgresSQL', 'TypeORM', 'Knex'],
+    database: ['MongoDB', 'PostgreSQL', 'TypeORM', 'Knex'],
     design: ['Figma'],
     planning: ['Jira', 'Miro']
   },
