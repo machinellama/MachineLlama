@@ -10,7 +10,7 @@ const machinellama = {
     backend: {
       js: ['Node', 'Express']
     },
-    build: ['Babel', 'Webpack', 'Gulp'],
+    build: ['NX', 'Webpack', 'Babel', 'Gulp'],
     devOps: ['Docker'],
     testing: ['Cypress', 'Jest'],
     database: ['MongoDB', 'PostgreSQL', 'TypeORM', 'Knex'],
