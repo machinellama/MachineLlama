@@ -1,6 +1,6 @@
 ```js
 const machinellama = {
-  languages: ['JavaScript'],
+  languages: ['JavaScript', 'Python'],
   technologies: {
     frontend: {
       js: ['React', 'TypeScript', 'NextJS'],
@@ -8,13 +8,14 @@ const machinellama = {
       libraries: ['Material UI', 'Ant Design']
     },
     backend: {
-      js: ['Node', 'Express']
+      js: ['Node', 'Express'],
+      python: ['pandas', 'pytorch', 'machine learning']
     },
     build: ['NX', 'Webpack', 'Babel', 'Gulp'],
     devOps: ['Docker'],
     testing: ['Cypress', 'Jest'],
     database: ['MongoDB', 'PostgreSQL', 'TypeORM', 'Knex'],
-    design: ['Figma'],
+    design: ['Figma', 'Retool'],
     planning: ['Jira', 'Miro']
   },
   methodologies: ['Agile', 'Waterfall'],
