@@ -9,14 +9,15 @@ const machinellama = {
     },
     backend: {
       js: ['Node', 'Express'],
-      python: ['pandas', 'pytorch', 'machine learning']
+      python: ['machine learning', 'pytorch', 'pandas']
     },
     build: ['NX', 'Webpack', 'Babel', 'Gulp'],
-    devOps: ['Docker'],
+    devOps: ['Docker', 'Lightsail', 'Route 53', 'S3'],
+    server: ['Unix', 'Linux', 'Ubuntu'],
     testing: ['Cypress', 'Jest'],
     database: ['MongoDB', 'PostgreSQL', 'TypeORM', 'Knex'],
     design: ['Figma', 'Retool'],
-    planning: ['Jira', 'Miro']
+    planning: ['Jira', 'Linear', 'Coda', 'Miro']
   },
   methodologies: ['Agile', 'Waterfall'],
   preferences: ['2 spaces', 'The Oxford Comma']
