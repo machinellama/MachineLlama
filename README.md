@@ -5,7 +5,7 @@ const machinellama = {
     frontend: {
       js: ['React', 'TypeScript', 'NextJS'],
       css: ['Tailwind', 'SASS'],
-      libraries: ['Material UI', 'Ant Design']
+      libraries: ['Material UI', 'PrimeReact', 'Ant Design']
     },
     backend: {
       js: ['Node', 'Express'],
