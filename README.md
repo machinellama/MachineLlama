@@ -13,7 +13,7 @@ const machinellama = {
     },
     build: ['NX', 'Webpack', 'Babel', 'Gulp'],
     devOps: ['Docker', 'Lightsail', 'Route 53', 'S3'],
-    server: ['Unix', 'Linux', 'Ubuntu'],
+    server: ['Unix/Linux'],
     testing: ['Cypress', 'Jest'],
     database: ['MongoDB', 'PostgreSQL', 'TypeORM', 'Knex'],
     design: ['Figma', 'Retool'],
