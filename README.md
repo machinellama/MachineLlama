@@ -9,7 +9,7 @@ const machinellama = {
     },
     backend: {
       js: ['Node', 'Express'],
-      python: ['machine learning', 'pytorch', 'pandas']
+      python: ['machine learning', 'pytorch', 'diffusers']
     },
     build: ['NX', 'Webpack', 'Babel', 'Gulp'],
     devOps: ['Docker', 'Lightsail', 'Route 53', 'S3'],
@@ -17,7 +17,8 @@ const machinellama = {
     testing: ['Cypress', 'Jest'],
     database: ['MongoDB', 'PostgreSQL', 'TypeORM', 'Knex'],
     design: ['Figma', 'Retool'],
-    planning: ['Jira', 'Linear', 'Coda', 'Miro']
+    planning: ['Jira', 'Linear', 'Coda', 'Miro'],
+    other: ['AI Automation']
   },
   methodologies: ['Agile', 'Waterfall'],
   preferences: ['2 spaces', 'The Oxford Comma']
