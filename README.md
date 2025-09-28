@@ -18,7 +18,7 @@ const machinellama = {
     database: ['MongoDB', 'PostgreSQL', 'TypeORM', 'Knex'],
     design: ['Figma', 'Retool'],
     planning: ['Jira', 'Linear', 'Coda', 'Miro'],
-    other: ['AI Automation']
+    ai: ['AI Automation', 'Gemini', 'ChatGPT']
   },
   methodologies: ['Agile', 'Waterfall'],
   preferences: ['2 spaces', 'The Oxford Comma']
