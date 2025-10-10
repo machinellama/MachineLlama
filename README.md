@@ -27,8 +27,8 @@ const machinellama = {
 
 ---
 
->Need help making a your own website, app, ai tool, extension, plugin, or anything else digital? My company can help!
+>Need help making your own website, app, ai tool, extension, plugin, or anything else digital? My company can help!
 >
->Learn more at [dotfinally](https://dotfinally.com/en) to see how we can make something great together.
+>Learn more at [dotfinally](https://dotfinally.com/en)
 
 ---
