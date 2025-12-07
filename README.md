@@ -13,10 +13,9 @@ const machinellama = {
     },
     build: ['NX', 'Webpack', 'Babel', 'Gulp'],
     devOps: ['Docker', 'Lightsail', 'Route 53', 'S3'],
-    server: ['Unix/Linux', 'Nginx'],
     testing: ['Cypress', 'Jest'],
     database: ['MongoDB', 'PostgreSQL', 'TypeORM', 'Knex'],
-    design: ['Figma', 'Retool'],
+    design: ['Figma'],
     planning: ['Jira', 'Linear', 'Coda', 'Miro'],
     ai: ['AI Automation', 'Gemini', 'ChatGPT']
   },
