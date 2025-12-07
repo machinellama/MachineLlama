@@ -24,11 +24,3 @@ const machinellama = {
   preferences: ['2 spaces', 'The Oxford Comma']
 }
 ```
-
----
-
->Need help making your own website, app, ai tool, extension, plugin, or anything else digital? My company can help!
->
->Learn more at [dotfinally.com](https://dotfinally.com/en)
-
----
